@@ -2,7 +2,7 @@
 
 # Halo, saya Muhammad Noor 👋
 
-**Full-Stack AI Developer** · Kotawaringin Timur, Kalimantan Tengah 🇮🇩
+**Full-Stack AI Developer** · Kotawaringin Timur, Kalimantan Tengah
 
 Membangun alat bantu dan integrasi untuk layanan pemerintah digital (SPLP & SiCantik), serta AI agent untuk otomasi dan chatbot berbasis domain.
 
